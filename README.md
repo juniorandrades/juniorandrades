@@ -1,3 +1,10 @@
+Hello! Welcome to my profile. 👋
+
+
+My name is Anderson Silva, I'm 22 years old. Currently living in Brazil. I'm studying some technologys at DIO and my goal is to master HTML, CSS and JavaScript soon! I am looking for improvement in my skills and myself as a developer.
+
+"It's not how much time you have, it's how you use it." 💭
+
 
 
 🚀 Languages and Tools: </br></br>
