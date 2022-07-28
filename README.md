@@ -1,24 +1,12 @@
-const aboutMe = {
-  user: "Anderson Silva",
-  pronouns: "He" | "His",
-  function: "Front-end",
-  current_education: "DIO",
-  hobbies: [
-    "Studying",
-    "Watching (movies, series and animes)",
-    "Electronic games",
-    "practice sports",
-  ],
-};
 
-function getCurrentCity() {
-  return Seropédica - RJ_Brazil;
-}
 
-function Ambitions() {
-  startSystemAnalysisAndDevelopment();
-  becomeFullStackDeveloper();
-}
+🚀 Languages and Tools:
+<img align="left" alt="HTML" width="23px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
+
+
+
+✍🏻 I Wanna Learn:
+
 
 
 
