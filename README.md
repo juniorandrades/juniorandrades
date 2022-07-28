@@ -1,16 +1,24 @@
-### Hi there 👋
+const aboutMe = {
+  user: "Anderson Silva",
+  pronouns: "He" | "His",
+  function: "Front-end",
+  current_education: "DIO",
+  hobbies: [
+    "Studying",
+    "Watching (movies, series and animes)",
+    "Electronic games",
+    "practice sports",
+  ],
+};
 
-<!--
-**juniorandrades/juniorandrades** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+function getCurrentCity() {
+  return Seropédica - RJ_Brazil;
+}
 
-Here are some ideas to get you started:
+function Ambitions() {
+  startSystemAnalysisAndDevelopment();
+  becomeFullStackDeveloper();
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
